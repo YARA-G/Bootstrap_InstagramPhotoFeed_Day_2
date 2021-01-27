@@ -7,3 +7,17 @@
 .card{ 
     width: 30rem;
 }
+
+.select_tab {
+    color:#6c757d;
+    background-color: none;
+    border: 8px solid white;
+}
+.select_tab:hover, .select_tab:focus {
+    color: #fff;
+   
+    border-color: #285e8e; /*set the color you want here*/
+     background-color: #6c757d;
+    border: 8px solid #6c757d ;
+    border-radius: 3px;
+}
